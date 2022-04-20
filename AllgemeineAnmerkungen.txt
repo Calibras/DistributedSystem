@@ -1,0 +1,1 @@
+Zu jedem Blatt lade ich nur die notwendigen klassen zu anstatt das Ganze Projekct. Sommit sollte es leichter sein etwas über den Code zu lernen =)
