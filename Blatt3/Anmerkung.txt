@@ -1,0 +1,1 @@
+Schöner einsatzt mit dem Enum in eigenen File dammit es überall ereichbar ist =)
