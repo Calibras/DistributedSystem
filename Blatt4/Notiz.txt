@@ -1,0 +1,7 @@
+Es sind zwei Programme in einem. Der TCP server wird über die Main Klasse gestartet
+Der TCP Client über die Klasse TCPCLient. 
+Die gesendeten Strings werden mit "|" getrennt wodurch die information geschickt werden.
+"1|Sebastian|1|42|1" würde einen neuen spieler esrstellen (1) mit dem Namen "Sebastian" mit der Position 1 der 42 jahre alt ist und der im
+Ersten Team spielt
+
+Der Code ist aktuell sehr unaufgeruemt und viele Kommentare fliegen rum
